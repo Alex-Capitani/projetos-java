@@ -43,7 +43,7 @@ Encapsulation protects object data by restricting direct access and allowing man
 
 ---
 
-## 📄 Class Description
+## Class Description
 
 ### Class: `Pai`
 Represents a father entity with personal and salary information.
