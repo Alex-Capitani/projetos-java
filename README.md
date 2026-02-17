@@ -1,6 +1,6 @@
-# 📦 Java Encapsulation Example – Access Modifiers
+# Java Encapsulation Example – Access Modifiers
 
-## 📌 Overview
+## Overview
 This project demonstrates the concept of **encapsulation in Java**, focusing on **communication restrictions between objects** using **access modifiers**.
 
 The activity aims to show how attributes and methods can have different visibility levels and how this affects access and data protection in object-oriented programming.
@@ -9,7 +9,7 @@ This example was developed as part of Java OOP studies.
 
 ---
 
-## 🎯 Objective
+## Objective
 The goal is to understand:
 
 - Object communication
@@ -20,7 +20,7 @@ The goal is to understand:
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 Example structure:
 
 src/
@@ -30,7 +30,7 @@ src/
 
 ---
 
-## 🧠 Concepts Applied
+## Concepts Applied
 
 ### Encapsulation
 Encapsulation protects object data by restricting direct access and allowing manipulation only through methods.
